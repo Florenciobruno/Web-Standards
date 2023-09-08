@@ -1,0 +1,50 @@
+<DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<lang="PT-BR">	
+	<title>Receita Costela na Brasa</title>
+</head>
+
+<body>
+	
+	<h1>Costela Bovina na brasa com molho Barbecue.</h1>
+	
+	<img src="..\imagens\costela.avif" width="600" height="400" alt= "Imagem de costela assada em churrasqueira com molho Barbecue">
+	
+	<h2>Para esta Receita utilizaremos os seguintes ingredientes:</h2>
+	<ul>
+		<li>1- Peça de costela bovina de aproximadamente 2 quilos.</li>
+		<li>6- Colheres de Sopa de molho Barbecue Canes</li>
+		<li>10- Dentes de alho para temperar a costela.</li>
+		<li>Sal grosso deve ser adicionado a gosto.</li>
+	</ul>
+	
+	<h2>Materiais para o preparo.</h2>
+	
+	<ul>
+		<li>Faca para corte de carne.</li>
+		<li>Espremedor/triturador de alho.</li>
+		<li>Plástico para assar carne na churrasqueira.</li>
+		<li>Pincel alimentar para auxiliar com o molho Barbecue.</li>
+	</ul>
+
+	<h2>Modo de preparo</h2>
+	
+	<ol>
+		<li>Acender a churrasqueira para que o carvão fique na forma ideal para o cozimento da carne.</li>
+		<li>Retire a costela de sua embalagem e a reserve em um recipiente grande onde possa receber os outros ingredientes.</li>
+		<li>Descasque os dentes de alho e triture os mesmos.</li>
+		<li>Após esse processo, misturar o alho com o sal.</li>
+		<li>Passar o tempero por toda a carne deixando o mesmo uniforme, certifque-se de que não haja pontos com excesso de tempero.</li>
+		<li>Embalar a carne no plastico para churrasqueira dando 3 voltas na mesma, após, amarrar as pontas com barbante.</li>
+		<li>Deixar a carne cozinhar por 4 horas, certifique de manter a brasa regular durante o processo de cozimento.</li>
+		<li>Retirar a carne da embalagem e reservar em uma forma.</li>
+		<li>Aumentar a temperatura da brasa para grelhar a carne.</li>
+		<li>Colocar a carne sobre a grelha até atingir o ponto desejado.</li>
+		<li>Certifique-se de que não queime a carne.</li>
+		<li>Após a carne atingir o ponto desejado, ainda na grelha aplique o molho Barbecue com o auxílio de um pincel alimentício.</li>
+		<li>Deixe a carne dourar por aproximadamente 3 minutos.</li>
+		<li>Retire da grelha e sirva.</li>
+		
+	</ol>
+<body/>
