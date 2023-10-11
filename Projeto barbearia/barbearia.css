@@ -1,0 +1,33 @@
+h1{
+    font-size: 30pt;font-family:"Bookman old style";
+    text-align: center;
+}h2{
+    font-size: 25pt;font-family:"Bookman old style";
+    text-align: center;
+}
+#valores{
+    font-size: 16pt;font-family:"Bookman old style";color:black;
+
+}body{
+    background-color: aqua;
+    text-align: justify;
+    font-size: 16pt;font-family:"Bookman old style";font-style: italic;
+}
+#logo{
+    float: right;
+    width: 10%;
+    border: solid;
+    padding: 10px;
+    margin: 10px 10px 10px 10;
+    border-color: black;
+   }
+
+   #background{
+    background-image:"background.jpg";
+    background-attachment:fixed;
+    width: 98%;
+    border: double;
+    padding: 10px;
+    margin: 10px 10px 10px 10;
+    border-color: black;
+   }
